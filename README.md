@@ -7,7 +7,9 @@
 
 ![image](https://github.com/zfy199466/DropListProject/blob/master/images/Untitled.gif)
 
+
 在UITableViewController也进行了兼容
+
 ![image](https://github.com/zfy199466/DropListProject/blob/master/images/Untitled1.gif)
 
 因为是采用Model的Present跳转展示方式，所以只能在视图控制器中展示
